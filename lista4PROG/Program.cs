@@ -60,6 +60,61 @@ namespace lista4PROG
 
             //--------------------------------------------------------------------------------------
 
+            //6-exercico
+
+            //  int n;
+            //  Console.WriteLine("digite um numero:");
+            //  n = int.Parse(Console.ReadLine());
+
+            //if (n % 3 == 0 && n % 5 == 0 && n % 10 == 0) {
+            //      Console.WriteLine($"o numero {n} é divisivel por 3,5 e 10");
+            //  }
+            //else if (n % 3 == 0 && n % 5 == 0) {
+            //      Console.WriteLine($"o numero {n} é divisivel por 3 e 5");
+            //  }
+            //else if (n % 3 == 0)
+            //  {
+            //      Console.WriteLine($"o numero {n} é divisivel por 3");
+            //  }
+            //  else if (n  % 5 == 0)
+            //  {
+            //      Console.WriteLine($"o numero {n} é divisivel por 5");
+            //  }
+            //else
+            //  {
+            //      Console.WriteLine("numero não é divisivel por 3 nem por 5 e nem por 10");
+            //  }
+
+            //Console.ReadKey();
+
+
+            //-------------------------------------------------------------------
+
+
+            // 7- exercicio
+            //int casaKm;
+            //double disCasEsc, temEscCasa, TemCasaEsc, temTotal,DisEscCasa;
+            //Console.Write("Informe o km da sua casa: ");
+            // casaKm = int.Parse(Console.ReadLine());
+
+            
+            // disCasEsc = (100 - casaKm) * 0.6;
+            // DisEscCasa = casaKm * 0.4;
+
+            //TemCasaEsc = disCasEsc / 15; // considerando velocidade média de 15 km/h
+            //temEscCasa = DisEscCasa / 10; // considerando velocidade média de 10 km/h
+            // temTotal = TemCasaEsc + temEscCasa;
+            //Console.WriteLine("Tempo gasto: " + temTotal + " horas.");
+
+            //Console.ReadKey();
+
+
+            //--------------------------------------------------------------------------------------
+
+
+
+
+
 
 
 
