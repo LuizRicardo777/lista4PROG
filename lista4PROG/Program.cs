@@ -97,7 +97,7 @@ namespace lista4PROG
             //Console.Write("Informe o km da sua casa: ");
             // casaKm = int.Parse(Console.ReadLine());
 
-            
+
             // disCasEsc = (100 - casaKm) * 0.6;
             // DisEscCasa = casaKm * 0.4;
 
@@ -108,9 +108,94 @@ namespace lista4PROG
 
             //Console.ReadKey();
 
-
+            //fiz dessa maneira pois não entendi a tabela, entao coloquei uma média de ida e de volta para calcular
             //--------------------------------------------------------------------------------------
 
+            //8-exercicio
+
+            //double marc, quant, total, custo, imp, custof, luc;
+
+            //Console.WriteLine("=======MARCAS=======");
+            //Console.WriteLine("1 ROYAL");
+            //Console.WriteLine("2 WISKAS");
+            //Console.WriteLine("3 GOLDEN");
+            //Console.WriteLine("4 NUTRIEN");
+            //Console.WriteLine("5 SPECIALCAT");
+            //Console.WriteLine("6 MARBA");
+            //Console.WriteLine("7 GATUS");
+
+            //Console.WriteLine("escolha uma marca:");
+            //marc = double.Parse(Console.ReadLine());
+            //Console.WriteLine("escolha a quantidade");
+            //quant = double.Parse(Console.ReadLine());
+
+            //switch (marc)
+            //{
+
+            //    case 1:
+            //        total = 129.50 * quant;
+            //        custo = total * 0.775;
+            //        custof = total - custo;
+            //        imp = custof * 0.33;
+            //        luc = (total - custof) - imp;
+
+
+            //        break;
+            //    case 2:
+            //        total = 182.78 * quant;
+            //        custo = total * 0.897;
+            //        custof = total - custo;
+            //        imp = custof * 0.275;
+            //        luc = (total - custof) - imp;
+
+
+            //        break;
+            //    case 3:
+            //        total = 159.46 * quant;
+            //        custo = total * 0.717;
+            //        custof = total - custo;
+            //        imp = custof * 0.225;
+            //        luc = (total - custof) - imp;
+
+
+            //        break;
+            //    case 4:
+            //        total = 144.80 * quant;
+            //        custo = total * 0.889;
+            //        custof = total - custo;
+            //        imp = custof * 0.25;
+            //        luc = (total - custof) - imp;
+
+
+            //        break;
+            //    case 5:
+            //        total = 205.40 * quant;
+            //        custo = total * 0.8324;
+            //        custof = total - custo;
+            //        imp = custof * 0.22;
+            //        luc = (total - custof) - imp;
+
+
+            //        break;
+            //    case 7:
+            //        total = 133.99 * quant;
+            //        custo = total * 0.946;
+            //        custof = total - custo;
+            //        imp = custof * 0.20;
+            //        luc = (total - custof) - imp;
+
+
+            //        break;
+            //    case 6:
+            //        total = 125.10 * quant;
+            //        custo = total * 0.904;
+            //        custof = total - custo;
+            //        imp = custof * 0.179;
+            //        luc = (total - custof) - imp;
+
+
+            //        break;
+        
 
 
 
@@ -118,9 +203,6 @@ namespace lista4PROG
 
 
 
-
-
-
-        }
+    }
     }
 }
